@@ -1,0 +1,56 @@
+{
+    "name": "-slengdorje",
+    "version": "1.0.0",
+    "description": "Desteoggken",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Unswhord/-slengdorje.git"
+    },
+    "author": {
+        "name": "unswhord"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Unswhord/-slengdorje/issues"
+    },
+    "homepage": "https://github.com/Unswhord/-slengdorje#readme",
+    "dependencies": {
+        "learning-montea-app": "^1.1.2"
+    },
+    "_id": "-slengdorje@1.0.0",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-DkMjjqXjbLsZZmJDmBfw+PNaPgFO/6QjObbxuKbAEXFlgNfQaUtGohvwBpNuUDQff8uar1a1P0Gd7G7kZ8rcMw==",
+        "shasum": "fcd60be24b9a9ef3dda1edc4e6be561196b9cd42",
+        "tarball": "https://registry.npmjs.org/-slengdorje/-/-slengdorje-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 527,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIGCta1ljd4dOEYVRKTbTJUdnd/WMDjDr1e4iFAWtU4FBAiEAjgmynzUXXIy+2TK9osfqWL/h7MvIlf6Axs+J5A/FoOU="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "montea-app",
+        "email": "febrian300720@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "montea-app",
+            "email": "febrian300720@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-slengdorje_1.0.0_1710772500152_0.6264511930683441"
+    },
+    "_hasShrinkwrap": false
+}
